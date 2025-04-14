@@ -3,7 +3,7 @@
 
 :root {
     --background-color:var(--azul-claro)#ffffff;
-    --alto-contraste-fundo: #000000;
+    --alto-contraste-fundo: #00ffb3;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #aa6185;
 }
