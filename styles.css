@@ -5,7 +5,7 @@
     --background-color:var(--azul-claro)#71a6ec;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #000000;
-    --alto-contraste-link: #000000;
+    --alto-contraste-link: #e01010;
 }
 
 body {
